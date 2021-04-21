@@ -1,4 +1,4 @@
-# MYSQL Connection with Spring Framework
+# MYSQL Connection with Spring Framework (MVC)
 
 This project can apply CRUD with RESTful API. 
 /with Exception Handling, Spring Validation-Custom Validation, DTO Pattern, JPA Auditing.
