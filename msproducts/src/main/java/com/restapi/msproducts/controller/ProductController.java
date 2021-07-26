@@ -66,7 +66,6 @@ public class ProductController {
 		newprd.setId(prd.getId());
 		productService.save(newprd);
 		return ResponseEntity.ok().body(newprd);
-		
 	}
 	
 	@DeleteMapping(value="/products/{id}")
